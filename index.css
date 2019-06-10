@@ -135,13 +135,13 @@ li{
 .nav1{
     height: 80px;
     width: 100%;
+    background-color: #fbfbfb;
 }
 .nav{
     width: 1200px;
     height: 80px;
     line-height: 80px;
-    margin: 0 auto;
-    background-color: #ffffff;
+    margin: 0 auto;   
 }
 .nav li{
     float: left;
@@ -154,7 +154,7 @@ li{
     width: 1200px;
     height: 570px;
     margin: 0 auto; 
-
+    background-color: #fbfbfb;
 }
 .body .zitu{
     display: inline-block;
@@ -163,6 +163,10 @@ li{
     float: left;
     width: 250px;
 }
+.body .zi1{
+    background-color: #ffffff;
+    height: 30px;
+}
 .body .zi1 img{
     margin-left: 33px;
     margin-right: 25px;
@@ -170,6 +174,10 @@ li{
 .body .zi1 span{
     color: #494949;
     font-size: 16px;
+}
+.body .zi2{
+    height: 490px;
+    background-color: #ffffff;
 }
 .body .zi2 li{
     width: 80px;
@@ -189,6 +197,8 @@ li{
     float: right;
     width: 950px;
     margin-bottom: 25px;
+    background-color: #ffffff;
+
 }
 .body .tu li{
     border: 1px solid #dbdbdb;
